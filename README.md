@@ -1,5 +1,6 @@
 # ServisApp 🚀
 [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]() 
+
 _Aplicación sencilla para consumo de API’s Utilizando la arquitectura MVC_
 
 _El objetivo es implementar el consumo de micro servicios en una aplicación que esta muestre la información requerida y así mismo utilizar tokens para usuarios registrados y así mismo lograr un crud sencillo_
@@ -27,4 +28,6 @@ _Puede descargar el APK del siguiente enlace, libre de virus_
 
 ## TAGS 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
-[![Android](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)]()
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
