@@ -25,4 +25,6 @@ _Puede descargar el APK del siguiente enlace, libre de virus_
 ---
 ⌨️ con ❤️ por [ZeconsLab](https://github.com/zeconslab) 😊
 
-
+## TAGS 
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
+[![Android](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)]()
