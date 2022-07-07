@@ -1,9 +1,9 @@
 # ServisApp 🚀
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]() 
+[![BUILD](https://img.shields.io/github/checks-status/zeconslab/APPServices/main?label=BUILD&logo=Android&style=for-the-badge)]() 
 
 _Aplicación sencilla para consumo de API’s Utilizando la arquitectura MVC_
 
-_El objetivo es implementar el consumo de micro servicios en una aplicación que esta muestre la información requerida y así mismo utilizar tokens para usuarios registrados y así mismo lograr un crud sencillo_
+_El objetivo es implementar el consumo de micro servicios en una aplicación que esta muestre la información requerida y así mismo utilizar tokens para usuarios regisrados y así mismo lograr un crud sencillo_
 
 ## Tecnologías 💻
 
